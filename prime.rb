@@ -1,5 +1,6 @@
 def prime?(array)
   container = []
 
-  array.each do 
+  array.each do |number|
+    
 end
