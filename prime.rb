@@ -1,4 +1,4 @@
-def prime?(array)
+def prime?(number)
   container = []
 
   array.each do |number|
