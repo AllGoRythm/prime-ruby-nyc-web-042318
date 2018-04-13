@@ -11,18 +11,7 @@ num.each do |check == 2|
 end
 
 
-=begin
-    i = 2
 
-      while i < num
-        if num % i == 0
-          return false
-        end
-
-        i += 1
-      end
-    end
-=end
 
     return true
 
