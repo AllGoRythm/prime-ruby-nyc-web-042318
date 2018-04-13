@@ -1,1 +1,3 @@
-def 
+def prime?
+
+end
